@@ -1,0 +1,6 @@
+{
+  "name": "SentinelMind - Military Stress & Health Readiness Platform",
+  "description": "AI-powered stress monitoring, XGBoost risk forecasting, Isolation Forest anomaly detection, and automated triage alert engine for operational armed forces.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
